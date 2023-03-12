@@ -1,0 +1,15 @@
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\bin\Debug\net6.0\ОПД начало работы.exe
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\bin\Debug\net6.0\ОПД начало работы.deps.json
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\bin\Debug\net6.0\ОПД начало работы.runtimeconfig.json
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\bin\Debug\net6.0\ОПД начало работы.dll
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\bin\Debug\net6.0\ОПД начало работы.pdb
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ОПД начало работы.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ОПД начало работы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ОПД начало работы.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ОПД начало работы.AssemblyInfo.cs
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ОПД начало работы.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ОПД начало работы.dll
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\refint\ОПД начало работы.dll
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ОПД начало работы.pdb
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ОПД начало работы.genruntimeconfig.cache
+C:\Users\Alexander\source\учеба\2 курс\ОПД\ОПД начало работы\ОПД начало работы\obj\Debug\net6.0\ref\ОПД начало работы.dll
